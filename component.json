@@ -1,0 +1,10 @@
+{
+  "About this file": "Bower package",
+  "name": "amd-global-modules",
+  "version": "1.0.0",
+  "author": "Vitalii [Nayjest] Stepanenko <gmail@vitaliy.in>",
+  "main": "./amd-global-modules.js",
+  "dependencies": {
+    "decorate":"last"
+  }
+}
