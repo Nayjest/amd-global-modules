@@ -29,7 +29,7 @@ define('components/amd-global-modules/amd-global-modules', ['components/decorate
                         }
                     }
                 };
-                glob.define = decorate.decorateBefore(origDefine, defineDecorator);
+                glob.define = decorate.before(origDefine, defineDecorator);
             },
             disable:function () {
                 glob.define = origDefine;
