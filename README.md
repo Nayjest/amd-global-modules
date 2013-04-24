@@ -6,3 +6,6 @@ This script changes behavior of AMD javascript loaders (requirejs): all required
 It may be useful for debugging purposes (access all objects exported by modules via browser console).
 
 *"Amd global modules"* is distributed as AMD module in Bower package.
+
+### Depecencies
+* [decorate](https://github.com/Nayjest/decorate)
